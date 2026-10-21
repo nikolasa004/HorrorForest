@@ -1,0 +1,69 @@
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE and OS files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Compiled builds - distributed through GitHub Releases
+*.exe
+*.apk
+*.aab
+*.unitypackage
+
+# Private files
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+
+# Exclude third-party assets by default
+/Assets/*
+
+# My scripts
+!/Assets/Scripts/
+!/Assets/Scripts.meta
+
+# My Unity scenes
+!/Assets/Scenes/
+!/Assets/Scenes.meta
+
+# My animations
+!/Assets/Animacije/
+!/Assets/Animacije.meta
+
+# My terrain data
+!/Assets/New Terrain*.asset
+!/Assets/New Terrain*.asset.meta
+
+!/Assets/TerrainData_*.asset
+!/Assets/TerrainData_*.asset.meta
+
+# My terrain layers
+!/Assets/*.terrainlayer
+!/Assets/*.terrainlayer.meta
